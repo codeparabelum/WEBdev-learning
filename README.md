@@ -1,1 +1,2 @@
 # WEBdev-learning
+Este repositório foi criado para armazenar e compartilhar códigos desenvolvidos durante o processo de aprendizagem das linguagens de marcação e programação web: HTML, CSS e JavaScript. A ideia principal é manter um histórico de evolução, onde cada projeto ou código reflete o aprendizado adquirido em diferentes etapas de estudo, desde os conceitos mais básicos até implementações mais avançadas e interativas.
